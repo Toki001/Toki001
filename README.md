@@ -1,13 +1,12 @@
-## Hi there 👋
 
-### Tech Stack
-
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![TypeScript](https://img.shields.io)
-![TailwindCSS](https://img.shields.io)
-![NodeJS](https://img.shields.io)
-![Docker](https://img.shields.io)
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
 
 <!--
 **Toki001/Toki001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
