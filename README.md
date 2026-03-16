@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 ### Tech Stack
+
 ![Python](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
-![TypesSript](https://img.shields.io)
+![TypeScript](https://img.shields.io)
 ![TailwindCSS](https://img.shields.io)
 ![NodeJS](https://img.shields.io)
 ![Docker](https://img.shields.io)
