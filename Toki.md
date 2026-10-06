@@ -1,6 +1,6 @@
 <!-- Banner Image: Replace the link below with your own hosted image (e.g., on Imgur or in your repo) -->
 <div align="center">
-  <img src="[https://via.placeholder.com/800x200/6B21A8/FFFFFF?text=HELLO+WORLD](https://img.magnific.com/free-vector/wavy-style-abstract-big-particle-dark-banner-flow-motion_1017-60698.jpg?semt=ais_hybrid&w=740&q=80)" alt="Profile Banner" width="100%" />
+  <img src="https://img.magnific.com/free-vector/wavy-style-abstract-big-particle-dark-banner-flow-motion_1017-60698.jpg?semt=ais_hybrid&w=740&q=80" alt="Profile Banner" width="100%" />
 </div>
 
 <h1 align="center">Hi there, I'm Jameskier! 👋</h1>
